@@ -4,8 +4,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo"  />
   <img width="20" />
@@ -32,8 +30,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="left" height="154" src="https://pixelll.is-a.dev/static/images/lain.gif?v=1"  />
 
 ###
@@ -43,8 +39,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/pixel2175/pixel2175/output/snake.svg" alt="Snake animation" />
 
