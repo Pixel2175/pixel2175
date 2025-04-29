@@ -40,6 +40,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pixel2175/pixel2175/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="An animation of snake eating the github user contribuitions (like snake game)" class="styles__Image-sc-19ug73m-1 fFdGRd">
 
 ###
