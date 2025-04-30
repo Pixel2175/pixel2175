@@ -1,5 +1,4 @@
 <br clear="both">
-
 <h1 align="left">Heyo :3, I'm Pixel</h1>
 
 ###
@@ -7,7 +6,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pixel2175&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="160" alt="languages graph"  />
 </div>
-
 ###
 
 <div align="center">
@@ -24,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="32" alt="svelte logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="32" alt="rust logo"  />
   <img width="12" />
