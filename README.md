@@ -1,4 +1,5 @@
 <br clear="both">
+
 <h1 align="left">Heyo :3, I'm Pixel</h1>
 
 ###
@@ -6,6 +7,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pixel2175&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="160" alt="languages graph"  />
 </div>
+
 ###
 
 <div align="center">
