@@ -29,6 +29,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="32" alt="rust logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="32" alt="c logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="32" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo"  />
