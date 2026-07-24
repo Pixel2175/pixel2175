@@ -1,15 +1,30 @@
+<div align="center">
+
 # pi66
 
-Interested in
+</div>
 
-- Low-level software
-- *nix systems
-- Networking
-- Systems programming
-- Self-hosting
+<div style="display: flex; justify-content: space-between; padding: 0 2rem;">
 
-## Websites
+<div>
 
-> **website**: https://pi66.xyz<br>
-> **git**: https://git.pi66.xyz<br>
-> **blog**: https://blog.pi66.xyz
+### Interested in
+
+> Low-level software<br>
+> *nix systems<br>
+> Networking<br>
+> Systems programming<br>
+> Self-hosting
+
+</div>
+
+<div>
+
+### Websites
+
+> [**pi66.xyz**](https://pi66.xyz)<br>
+> [**git.pi66.xyz**](https://git.pi66.xyz)<br>
+> [**blog.pi66.xyz**](https://blog.pi66.xyz)
+
+</div>
+</div>
